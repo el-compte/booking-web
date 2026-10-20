@@ -1,1 +1,210 @@
-{}
+{
+  "photo-studio": [
+    {
+      "url": "/photos/photo-studio-1.jpg",
+      "author": "Alexander Dummer",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Photographic_studio_(Unsplash).jpg"
+    },
+    {
+      "url": "/photos/photo-studio-2.png",
+      "author": "Daylight Studio",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Hudson_Yards_studio_with_an_18%E2%80%9322_ft_cyclorama_wall_and_15-foot_ceilings.png"
+    },
+    {
+      "url": "/photos/photo-studio-3.jpg",
+      "author": "Tony Webster",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Cyc_Photo_Studio_White_Background_3412853057_o.jpg"
+    },
+    {
+      "url": "/photos/photo-studio-4.jpg",
+      "author": "Tony Webster",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Photo_Studio_(22905056744).jpg"
+    }
+  ],
+  "podcast-studio": [
+    {
+      "url": "/photos/podcast-studio-1.jpg",
+      "author": "Ajcosta",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Podcast_Studio.jpg"
+    },
+    {
+      "url": "/photos/podcast-studio-2.jpg",
+      "author": "Mojmir Churavy",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Budova_CR_Vinohr_12_Moderni_Studio_A.jpg"
+    },
+    {
+      "url": "/photos/podcast-studio-3.jpg",
+      "author": "Mojmir Churavy",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Budova_CR_Vinohr_12_Moderni_Studio_B.jpg"
+    },
+    {
+      "url": "/photos/podcast-studio-4.jpg",
+      "author": "Xalo Mustafa",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Diversity_Sounds_recording_studio_in_Ratingen,_Germany.jpg"
+    }
+  ],
+  "meeting-room": [
+    {
+      "url": "/photos/meeting-room-1.jpg",
+      "author": "Breather",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Minimalist_meeting_room_(Unsplash).jpg"
+    },
+    {
+      "url": "/photos/meeting-room-2.jpg",
+      "author": "Breather",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Large_meeting_room_(Unsplash).jpg"
+    },
+    {
+      "url": "/photos/meeting-room-3.jpg",
+      "author": "Breather",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Cramped_meeting_room_(Unsplash).jpg"
+    },
+    {
+      "url": "/photos/meeting-room-4.jpg",
+      "author": "Breather",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Quiet_meeting_room_(Unsplash).jpg"
+    }
+  ],
+  "rooftop": [
+    {
+      "url": "/photos/rooftop-1.jpg",
+      "author": "Kgbo",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Eleven_Rooftop_Bar_at_757_Ann_Street,_Fortiude_Valley,_Brisbane_14.jpg"
+    },
+    {
+      "url": "/photos/rooftop-2.jpg",
+      "author": "Goodwillgames",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Florin_Court_-_Garden_roof_terrace.jpg"
+    },
+    {
+      "url": "/photos/rooftop-3.jpg",
+      "author": "BaonguyenCaravelas",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Saigon_Saigon_Rooftop_Bar-March_2014.jpg"
+    },
+    {
+      "url": "/photos/rooftop-4.jpg",
+      "author": "Prayitno",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:SPIRE_73_-_Rooftop_Bar_%26_Lounge_(37388744062).jpg"
+    }
+  ],
+  "kitchen": [
+    {
+      "url": "/photos/kitchen-1.jpg",
+      "author": "AlasdairW",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Riverside_Show_kitchen_at_STV_Pacific_Quay.JPG"
+    },
+    {
+      "url": "/photos/kitchen-2.jpg",
+      "author": "Blake Kimmel / Hundred Grade",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Auguste_Escoffier_School_of_Culinary_Arts_Boulder_Campus_Kitchen_Items.jpg"
+    },
+    {
+      "url": "/photos/kitchen-3.jpg",
+      "author": "Ɱ",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:CIAGreystoneKitchens.JPG"
+    },
+    {
+      "url": "/photos/kitchen-4.jpg",
+      "author": "Naomi Hébert",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kitchen_(Unsplash).jpg"
+    }
+  ],
+  "yoga-studio": [
+    {
+      "url": "/photos/yoga-studio-1.jpg",
+      "author": "Eelco van Wieringen",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Multi_Ruimte_Yoga_Trainingscentrum_Michi.jpg"
+    },
+    {
+      "url": "/photos/yoga-studio-2.jpg",
+      "author": "Eelco van Wieringen",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Zolder_Yoga_Trainingscentrum_Michi.jpg"
+    },
+    {
+      "url": "/photos/yoga-studio-3.jpg",
+      "author": "Lineereth",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Wam_dance_studio_salle_danse.jpg"
+    },
+    {
+      "url": "/photos/yoga-studio-4.jpg",
+      "author": "Staff Sgt. Valerie Halbert, U.S. Air Force",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Aviano_Community_Center_unveils_renovated_ballet_studio_(6303806).jpg"
+    }
+  ],
+  "art-atelier": [
+    {
+      "url": "/photos/art-atelier-1.jpg",
+      "author": "Citobun",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:SCAD_Hong_Kong_classroom.JPG"
+    },
+    {
+      "url": "/photos/art-atelier-2.jpg",
+      "author": "Mylenos",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Atelier_du_peintre_danois_20201020_160710.jpg"
+    },
+    {
+      "url": "/photos/art-atelier-3.jpg",
+      "author": "Temo Svirely",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Workshop_of_Temo_Svirely_2013.jpg"
+    },
+    {
+      "url": "/photos/art-atelier-4.jpg",
+      "author": "Joe Mabel",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:619_Western_06.jpg"
+    }
+  ],
+  "music-room": [
+    {
+      "url": "/photos/music-room-1.jpg",
+      "author": "Will Fisher",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Keyboards_-_Rhodes_piano,_Leslie_speaker_with_microphone,_Hammond_C3,_Grand_piano_with_microphones_-_Studio_A,_In_Your_Ear_Studios.jpg"
+    },
+    {
+      "url": "/photos/music-room-2.jpg",
+      "author": "John Robert McPherson",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Brisbane_City_Hall_Windsor_Room_foyer_baby_grand_piano_first_floor_Brisbane_P1320955.jpg"
+    },
+    {
+      "url": "/photos/music-room-3.jpg",
+      "author": "bwgtheatre",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Music_Practice_Room.jpg"
+    },
+    {
+      "url": "/photos/music-room-4.jpg",
+      "author": "The Blackbird Academy",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Blackbird_Studio_A_piano_room_-_Piano_recording_with_Yamaha_C7,_Rhodes_Mark_I_Suitcase_73,_Wurlitzer_200A,_and_guitar_case_-_piano-room-horiz-fullview_-_Blackbird_Studio_-_Phil_Madeira,_Nov._16-18,_2021_-_The_Blackbird_Academy_(uploaded_on_2021-12-16).jpg"
+    }
+  ]
+}

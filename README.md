@@ -69,8 +69,9 @@ scripts/
 
 ## Photos
 
-Listing photos come from [Wikimedia Commons](https://commons.wikimedia.org) under free licenses.
-Each listing page credits its photographers.
+Listing photos come from [Wikimedia Commons](https://commons.wikimedia.org) under free licenses
+(CC0, public domain, CC BY and CC BY-SA). They are stored in `public/photos/`, credited on each
+listing page, and listed with their sources in [PHOTO-CREDITS.md](PHOTO-CREDITS.md).
 
 ## Deploy (free)
 

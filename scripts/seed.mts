@@ -93,7 +93,7 @@ for (const { photos: photoSet, metadata, ...resource } of listings) {
       metadata: {
         ...metadata,
         images: set.map((p) => p.url),
-        photoCredits: set.map((p) => `${p.author} (${p.license})`),
+        photoCredits: [...new Set(set.map((p) => `${p.author} (${p.license})`))],
       },
     }),
   });
