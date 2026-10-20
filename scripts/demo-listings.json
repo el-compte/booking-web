@@ -1,0 +1,74 @@
+[
+  {
+    "photos": "photo-studio",
+    "name": "Daylight photo studio with cyclorama",
+    "description": "A bright 120 m² studio with a white cyclorama wall, north-facing windows and a full lighting kit. Great for product shoots, portraits and small video productions. Changing room and steamer included.",
+    "timezone": "Europe/Paris",
+    "slotMinutes": 30,
+    "openingHours": { "monday": [{ "from": "08:00", "to": "20:00" }], "tuesday": [{ "from": "08:00", "to": "20:00" }], "wednesday": [{ "from": "08:00", "to": "20:00" }], "thursday": [{ "from": "08:00", "to": "20:00" }], "friday": [{ "from": "08:00", "to": "20:00" }], "saturday": [{ "from": "09:00", "to": "18:00" }], "sunday": [{ "from": "09:00", "to": "18:00" }] },
+    "metadata": { "category": "studios", "city": "Paris", "country": "France", "pricePerHour": 55, "currency": "EUR", "capacity": 10, "rating": 4.94, "reviews": 128, "hostName": "Camille", "hostYears": 6, "amenities": ["Cyclorama wall", "Studio lights", "Wifi", "Changing room", "Kitchenette", "Freight lift"] }
+  },
+  {
+    "photos": "podcast-studio",
+    "name": "Soundproofed podcast room for four",
+    "description": "Treated walls, four broadcast microphones, a four-channel mixer and headphones for everyone. Record straight to SD or your laptop, with an engineer available on request.",
+    "timezone": "Europe/Berlin",
+    "slotMinutes": 60,
+    "openingHours": { "monday": [{ "from": "09:00", "to": "21:00" }], "tuesday": [{ "from": "09:00", "to": "21:00" }], "wednesday": [{ "from": "09:00", "to": "21:00" }], "thursday": [{ "from": "09:00", "to": "21:00" }], "friday": [{ "from": "09:00", "to": "21:00" }], "saturday": [{ "from": "10:00", "to": "18:00" }] },
+    "metadata": { "category": "podcast", "city": "Berlin", "country": "Germany", "pricePerHour": 40, "currency": "EUR", "capacity": 4, "rating": 4.89, "reviews": 76, "hostName": "Jonas", "hostYears": 4, "amenities": ["4 microphones", "Mixer", "Headphones", "Acoustic treatment", "Wifi", "Air conditioning"] }
+  },
+  {
+    "photos": "meeting-room",
+    "name": "Boardroom with a view of the river",
+    "description": "A calm meeting room for up to 12 people with a large screen, video-call camera and whiteboard. Coffee, tea and water are included, and the reception team will greet your guests.",
+    "timezone": "Europe/Lisbon",
+    "slotMinutes": 60,
+    "openingHours": { "monday": [{ "from": "08:00", "to": "18:00" }], "tuesday": [{ "from": "08:00", "to": "18:00" }], "wednesday": [{ "from": "08:00", "to": "18:00" }], "thursday": [{ "from": "08:00", "to": "18:00" }], "friday": [{ "from": "08:00", "to": "18:00" }] },
+    "metadata": { "category": "meetings", "city": "Lisbon", "country": "Portugal", "pricePerHour": 35, "currency": "EUR", "capacity": 12, "rating": 4.91, "reviews": 203, "hostName": "Inês", "hostYears": 8, "amenities": ["Video-call setup", "Large screen", "Whiteboard", "Coffee & tea", "Wifi", "Step-free access"] }
+  },
+  {
+    "photos": "rooftop",
+    "name": "Sunset rooftop terrace",
+    "description": "A private rooftop with city views, lounge seating and string lights. Perfect for team drinks, small celebrations or a photo shoot at golden hour. Speakers and a bar counter are on site.",
+    "timezone": "Europe/Madrid",
+    "slotMinutes": 60,
+    "openingHours": { "thursday": [{ "from": "12:00", "to": "23:00" }], "friday": [{ "from": "12:00", "to": "23:00" }], "saturday": [{ "from": "11:00", "to": "23:00" }], "sunday": [{ "from": "11:00", "to": "21:00" }] },
+    "metadata": { "category": "rooftops", "city": "Barcelona", "country": "Spain", "pricePerHour": 90, "currency": "EUR", "capacity": 30, "rating": 4.97, "reviews": 64, "hostName": "Marta", "hostYears": 3, "amenities": ["City views", "Lounge seating", "Speakers", "Bar counter", "String lights", "Restroom"] }
+  },
+  {
+    "photos": "kitchen",
+    "name": "Chef's kitchen for cooking classes",
+    "description": "A professional-grade kitchen with six induction stations, a large island and all the tools you need. Used for cooking classes, recipe videos and private dinners for up to 14 guests.",
+    "timezone": "Europe/Rome",
+    "slotMinutes": 60,
+    "openingHours": { "tuesday": [{ "from": "10:00", "to": "22:00" }], "wednesday": [{ "from": "10:00", "to": "22:00" }], "thursday": [{ "from": "10:00", "to": "22:00" }], "friday": [{ "from": "10:00", "to": "22:00" }], "saturday": [{ "from": "10:00", "to": "22:00" }], "sunday": [{ "from": "10:00", "to": "16:00" }] },
+    "metadata": { "category": "kitchens", "city": "Milan", "country": "Italy", "pricePerHour": 75, "currency": "EUR", "capacity": 14, "rating": 4.88, "reviews": 91, "hostName": "Luca", "hostYears": 5, "amenities": ["6 cooking stations", "Kitchen island", "Dishwasher", "Cookware", "Dining table", "Wifi"] }
+  },
+  {
+    "photos": "yoga-studio",
+    "name": "Light-filled yoga and dance studio",
+    "description": "Sprung wooden floor, wall mirrors and a quality sound system. Mats, blocks and bolsters are provided. Open mornings and evenings, ideal for classes, rehearsals and workshops.",
+    "timezone": "Europe/Amsterdam",
+    "slotMinutes": 60,
+    "openingHours": { "monday": [{ "from": "07:00", "to": "12:00" }, { "from": "16:00", "to": "21:00" }], "tuesday": [{ "from": "07:00", "to": "12:00" }, { "from": "16:00", "to": "21:00" }], "wednesday": [{ "from": "07:00", "to": "12:00" }, { "from": "16:00", "to": "21:00" }], "thursday": [{ "from": "07:00", "to": "12:00" }, { "from": "16:00", "to": "21:00" }], "friday": [{ "from": "07:00", "to": "12:00" }, { "from": "16:00", "to": "21:00" }], "saturday": [{ "from": "08:00", "to": "14:00" }], "sunday": [{ "from": "08:00", "to": "14:00" }] },
+    "metadata": { "category": "wellness", "city": "Amsterdam", "country": "Netherlands", "pricePerHour": 30, "currency": "EUR", "capacity": 20, "rating": 4.95, "reviews": 157, "hostName": "Sanne", "hostYears": 7, "amenities": ["Sprung floor", "Mirrors", "Sound system", "Yoga mats", "Showers", "Bike parking"] }
+  },
+  {
+    "photos": "art-atelier",
+    "name": "Painter's atelier with skylights",
+    "description": "A quiet atelier under tall skylights with easels, a large work table and a sink. Bring your own paints or use the shared supplies. Popular with painters, illustrators and small workshops.",
+    "timezone": "Europe/Paris",
+    "slotMinutes": 60,
+    "openingHours": { "monday": [{ "from": "10:00", "to": "18:00" }], "tuesday": [{ "from": "10:00", "to": "18:00" }], "wednesday": [{ "from": "10:00", "to": "18:00" }], "thursday": [{ "from": "10:00", "to": "18:00" }], "friday": [{ "from": "10:00", "to": "18:00" }], "saturday": [{ "from": "10:00", "to": "18:00" }] },
+    "metadata": { "category": "creative", "city": "Marseille", "country": "France", "pricePerHour": 25, "currency": "EUR", "capacity": 6, "rating": 4.86, "reviews": 42, "hostName": "Élodie", "hostYears": 2, "amenities": ["Skylights", "Easels", "Work table", "Sink", "Shared supplies", "Wifi"] }
+  },
+  {
+    "photos": "music-room",
+    "name": "Rehearsal room with grand piano",
+    "description": "A warm, acoustically treated room with a grand piano, a drum kit and two amps. Book by the half hour for practice, lessons or band rehearsals.",
+    "timezone": "Europe/Vienna",
+    "slotMinutes": 30,
+    "openingHours": { "monday": [{ "from": "10:00", "to": "22:00" }], "tuesday": [{ "from": "10:00", "to": "22:00" }], "wednesday": [{ "from": "10:00", "to": "22:00" }], "thursday": [{ "from": "10:00", "to": "22:00" }], "friday": [{ "from": "10:00", "to": "22:00" }], "saturday": [{ "from": "10:00", "to": "22:00" }], "sunday": [{ "from": "12:00", "to": "20:00" }] },
+    "metadata": { "category": "music", "city": "Vienna", "country": "Austria", "pricePerHour": 20, "currency": "EUR", "capacity": 5, "rating": 4.92, "reviews": 118, "hostName": "Hugo", "hostYears": 9, "amenities": ["Grand piano", "Drum kit", "2 amplifiers", "Acoustic treatment", "Music stands", "Air conditioning"] }
+  }
+]
